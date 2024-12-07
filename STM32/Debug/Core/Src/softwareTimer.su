@@ -1,0 +1,11 @@
+softwareTimer.c:25:5:timer1Flag	4	static
+softwareTimer.c:33:5:redFlag	4	static
+softwareTimer.c:41:5:greenFlag	4	static
+softwareTimer.c:49:5:enableFlag	4	static
+softwareTimer.c:57:5:oneSecondFlag	4	static
+softwareTimer.c:65:6:setTimerRed	4	static
+softwareTimer.c:70:6:setTimerGreen	4	static
+softwareTimer.c:75:6:setTimerEnable	4	static
+softwareTimer.c:80:6:setOneSecond	16	static
+softwareTimer.c:85:6:setTimer1	16	static
+softwareTimer.c:90:6:timerRun	4	static

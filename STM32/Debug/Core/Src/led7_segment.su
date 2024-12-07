@@ -1,0 +1,4 @@
+led7_segment.c:10:6:cleaeAll7SEG	8	static
+led7_segment.c:17:6:turnSeg0	16	static
+led7_segment.c:27:6:turnSeg1	16	static
+led7_segment.c:37:6:enableSeg	16	static
